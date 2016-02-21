@@ -1,0 +1,25 @@
+{
+  "name": "grails-uibootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Hill <brian.hill@codeversant.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "grails-app/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui": "~0.4.0",
+    "angular": "~1.5.0",
+    "bootstrap": "~3.3.6",
+    "angular-aria": "~1.4.8",
+    "angular-dateParser": "~1.0.12",
+    "angular-timepicker": "~1.0.8"
+
+  }
+}
